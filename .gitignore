@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UFSS_Service/MVC_API/.vs/MVC_API/v16/Server/sqlite3
